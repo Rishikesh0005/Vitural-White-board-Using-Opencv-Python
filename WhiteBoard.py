@@ -5,7 +5,7 @@ github : https://github.com/Rishikesh0005
 
 linkedin: www.linkedin.com/in/rishikesh-n-27b927101 
 
-Full Stack Developer
+Full Stack Developer rishikeshpandian
 '''
 
 
